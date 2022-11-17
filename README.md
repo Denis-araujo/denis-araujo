@@ -1,4 +1,4 @@
-### Olá, Eu sou o Denis Gomes, desenvolvedor Front-end 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Denis Araujo</h1>
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React
