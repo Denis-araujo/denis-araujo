@@ -1,8 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Denis Araujo</h1>
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/denis-araujo">
