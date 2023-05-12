@@ -1,7 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Denis Araujo</h1>
 
-- 🔭 Hoje trabalho com front-end
-
 <div align="center">
   <a href="https://github.com/denis-araujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denis-araujo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
